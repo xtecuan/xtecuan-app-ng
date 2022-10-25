@@ -1,0 +1,5 @@
+NPM_MIRROR=http://npmuser:Cambiodeclave2022@nexus.promnet.com.sv:8081/repository/registry.npmjs.org/
+NPM_RUN=start
+DEV_MODE=true
+NODE_ENV=development
+#NODE_ENV=production
